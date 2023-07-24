@@ -21,6 +21,10 @@
     <selenium.version>4.10.0</selenium.version>
     <selenide.version>6.16.1</selenide.version>
     <lombok.version>1.18.28</lombok.version>
+    <podam.version>7.2.11.RELEASE</podam.version>
+    <owner.version>1.0.12</owner.version>
+    <allure.version>2.22.0</allure.version>
+    <aspectj.version>1.9.9.1</aspectj.version>
   </properties>
 
       
@@ -61,6 +65,31 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>${lombok.version}</version>
+     </dependency>
+     
+     <dependency>
+            <groupId>org.aeonbits.owner</groupId>
+            <artifactId>owner</artifactId>
+            <version>${owner.version}</version>
+     </dependency>
+
+     <dependency>
+          <groupId>io.qameta.allure</groupId>
+          <artifactId>allure-junit5</artifactId>
+          <version>${allure.version}</version>
+          <scope>test</scope>
+     </dependency>
+
+     <dependency>
+         <groupId>io.qameta.allure</groupId>
+         <artifactId>allure-selenide</artifactId>
+         <version>${allure.version}</version>
+         <scope>test</scope>
+     </dependency>
+     <dependency>
+            <groupId>uk.co.jemos.podam</groupId>
+            <artifactId>podam</artifactId>
+            <version>${podam.version}</version>
      </dependency>
   </dependencies>
 
