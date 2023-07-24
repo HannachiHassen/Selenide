@@ -29,15 +29,13 @@ public class Selector {
 	@FindBy(css="css-value")
 	private WebElement userNameSelenide;
 	
-	/**
-	 * pagemethod
-	 */
+	/* pagemethod
 	$(userNameSelenide).setValue("testing");
 	
-	/**
-	 * page factory initialization
-	 */
+	//page factory initialization
+	
 	HomePage homepage=Selenide.page(HomePage.class);
+	*/
 	
     /**
      * recommended approach
@@ -100,8 +98,8 @@ public class Selector {
      * Using Selenide for list of elements
      */
     private static final ElementsCollection ELEMENTS = $$x("//h3");
-    private static final ElementsCollection ELEMENTS_1 = $$x(byXpath("//h3"));
-    private static final ElementsCollection ELEMENTS_2 = $$x(By.xpath("//h3"));
+    //private static final ElementsCollection ELEMENTS_1 = $$x(byXpath("//h3"));
+    //private static final ElementsCollection ELEMENTS_2 = $$x(By.xpath("//h3"));
     private static final ElementsCollection ELEMENTS_3 = elements(byXpath("//h3"));
     private static final SelenideElement ELEMENTS_4 = elements(byXpath("//h3")).get(4);
     
