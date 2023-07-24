@@ -18,5 +18,4 @@ public class ChromeProvider implements WebDriverProvider{
 		WebDriverManager.chromedriver().setup();
 		return new ChromeDriver();
 	}
-
 }
