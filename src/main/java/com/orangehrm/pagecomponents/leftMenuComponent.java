@@ -6,7 +6,7 @@ import static com.codeborne.selenide.Selenide.*;
 
 import com.codeborne.selenide.Condition;
 
-public class leftMenuComponent {
+public class LeftMenuComponent {
 	
 	private static final SelenideElement PIM= $(byText("PIM"));
 	private static final String MENU_NAME= "%s";
