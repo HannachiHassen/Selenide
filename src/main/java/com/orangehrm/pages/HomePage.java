@@ -1,5 +1,6 @@
 package com.orangehrm.pages;
 
+import static com.orangehrm.enums.LeftMenuComponentType.*;
 import com.orangehrm.pagecomponents.LeftMenuComponent;
 
 public class HomePage {
@@ -14,5 +15,8 @@ public class HomePage {
 		return leftMenuComponent;
 	}
 	
-
+	public AddEmployeePage navigateToAddEmployeePage() {
+	    this.leftMenuComponent.selectAMenuFromLeftMenuBar(PIM);
+	    return new AddEmployeePage();
+	  }
 }
