@@ -1,9 +1,14 @@
 package com.orangehrm.pages;
+
 import com.orangehrm.pagecomponents.LeftMenuComponent;
 
 public class HomePage {
 	
-	private LeftMenuComponent leftMenuComponent;
+	private final LeftMenuComponent leftMenuComponent;
+	
+	public HomePage() {
+		this.leftMenuComponent= new LeftMenuComponent();
+	}
 
 	public LeftMenuComponent getLeftMenuComponent() {
 		return leftMenuComponent;
