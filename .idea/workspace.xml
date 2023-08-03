@@ -4,9 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce5cd4b5-2360-4900-aed3-26e0674e4670" name="Changes" comment="Added UserDetails class">
+    <list default="true" id="ce5cd4b5-2360-4900-aed3-26e0674e4670" name="Changes" comment="Added JobStrategy and Update UserDetails class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orangehrm/entity/UserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/orangehrm/entity/UserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/selenide.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/selenide.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/14999bb0-1faf-48bf-956a-c0709f3cfaea-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/44cc0a57-70f2-4c7d-8278-c1b123adf8eb-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/6f0ad1e4-c626-4441-87c9-7785777b801b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/7e48d90b-25f7-4efd-a154-5b64b1c1dab7-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/9dcc3495-cc5f-41e9-b827-f86afe54eed0-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/allure.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/e5332b72-e4ab-4052-a813-e305992ab05a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/executor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com/Selenide/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com/Selenide/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Selenide/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Selenide/Selector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/orangehrm/entity/EmployeeDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/orangehrm/entity/LoginDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/orangehrm/enums/LeftMenuComponentType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/orangehrm/pagecomponents/leftMenuComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/orangehrm/pages/AddEmployeePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/orangehrm/pages/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/orangehrm/pages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.orangehrm.tests.AddEmployeeTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.orangehrm.tests.AddEmployeeTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/Selenide/ChromeProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/Selenide/GooglePageTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/Selenide/GooglePageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/Selenide/GoogleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/orangehrm/base/TestSetup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/orangehrm/testdata/EmployeeTestData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/orangehrm/testdata/LoginTestData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/orangehrm/tests/AddEmployeeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/images.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/selenide.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691096546404</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added JobStrategy and Update UserDetails class">
+      <option name="closed" value="true" />
+      <created>1691097157288</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691097157288</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,7 +155,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added FirstNameStrategy,LastNameStrategy class" />
     <MESSAGE value="Added UserDetails class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added UserDetails class" />
+    <MESSAGE value="Added JobStrategy and Update UserDetails class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added JobStrategy and Update UserDetails class" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
