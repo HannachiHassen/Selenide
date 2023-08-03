@@ -23,7 +23,7 @@
     <lombok.version>1.18.28</lombok.version>
     <podam.version>8.0.0.RELEASE</podam.version>
     <owner.version>1.0.12</owner.version>
-    <allure.version>2.22.0</allure.version>
+    <allure.version>2.23.0</allure.version>
     <aspectj.version>1.9.9.1</aspectj.version>
   </properties>
 
