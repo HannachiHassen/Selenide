@@ -16,10 +16,4 @@ public class TestSetup {
 	    //Logs element interaction steps to the allure report
 	    SelenideLogger.addListener("AllureSelenide", new AllureSelenide());
 	  }
-
-	@BeforeEach
-	void setUp() {
-		open("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
-	}
-
 }
