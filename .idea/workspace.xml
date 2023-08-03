@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce5cd4b5-2360-4900-aed3-26e0674e4670" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ce5cd4b5-2360-4900-aed3-26e0674e4670" name="Changes" comment="Added FirstNameStrategy,LastNameStrategy class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orangehrm/entity/EmployeeDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/orangehrm/entity/EmployeeDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orangehrm/entity/LoginDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/orangehrm/entity/LoginDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/orangehrm/base/TestSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/orangehrm/base/TestSetup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/orangehrm/tests/AddEmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/orangehrm/tests/AddEmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/selenide.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/selenide.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com/Selenide/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/com/Selenide/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com/Selenide/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/com/Selenide/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/orangehrm/entity/EmployeeDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/orangehrm/entity/EmployeeDetails.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/orangehrm/base/TestSetup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/orangehrm/base/TestSetup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/orangehrm/tests/AddEmployeeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/orangehrm/tests/AddEmployeeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenide.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenide.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +21,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "HannachiHassen"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f3632228-b35d-4b0b-82b7-5c69dfa7dad2" />
+        <option name="url" value="https://github.com/HannachiHassen/Selenide.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2TQxAaMkW8hbIPzLdIzRpd0sOiH" />
   <component name="ProjectViewState">
@@ -68,6 +69,15 @@
       <updated>1690988972784</updated>
       <workItem from="1690988974645" duration="1796000" />
     </task>
+    <task id="LOCAL-00001" summary="Added FirstNameStrategy,LastNameStrategy class">
+      <option name="closed" value="true" />
+      <created>1691095743952</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691095743952</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +93,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added FirstNameStrategy,LastNameStrategy class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added FirstNameStrategy,LastNameStrategy class" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
