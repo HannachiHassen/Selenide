@@ -12,21 +12,21 @@
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
-    <properties>
-        <maven.compiler.source>11</maven.compiler.source>
-        <maven.compiler.target>11</maven.compiler.target>
-        <testng.version>7.8.0</testng.version>
-        <webdrivermanager.version>5.4.1</webdrivermanager.version>
-        <junit.version>5.10.0</junit.version>
-        <selenium.version>4.10.0</selenium.version>
-        <selenide.version>6.16.1</selenide.version>
-        <lombok.version>1.18.28</lombok.version>
-        <podam.version>7.2.11.RELEASE</podam.version>
-        <owner.version>1.0.12</owner.version>
-        <allure.version>2.22.0</allure.version>
-        <aspectj.version>1.9.9.1</aspectj.version>
-        <faker.version>1.0.2</faker.version>
-    </properties>
+  <properties>
+    <maven.compiler.source>11</maven.compiler.source>
+    <maven.compiler.target>11</maven.compiler.target>
+    <testng.version>7.8.0</testng.version>
+    <webdrivermanager.version>5.4.1</webdrivermanager.version>
+    <junit.version>5.10.0</junit.version>
+    <selenium.version>4.11.0</selenium.version>
+    <selenide.version>6.17.0</selenide.version>
+    <lombok.version>1.18.28</lombok.version>
+    <podam.version>8.0.0.RELEASE</podam.version>
+    <owner.version>1.0.12</owner.version>
+    <allure.version>2.23.0</allure.version>
+    <aspectj.version>1.9.9.1</aspectj.version>
+    <faker.version>1.0.2</faker.version>
+  </properties>
 
     <dependencies>
         <dependency>
