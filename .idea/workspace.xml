@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce5cd4b5-2360-4900-aed3-26e0674e4670" name="Changes" comment="Added FirstNameStrategy,LastNameStrategy class">
+    <list default="true" id="ce5cd4b5-2360-4900-aed3-26e0674e4670" name="Changes" comment="Added UserDetails class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/orangehrm/entity/UserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/orangehrm/entity/UserDetails.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.orangehrm.strategy" />
+    </key>
+  </component>
   <component name="SeleniumInternalSettingsState">
     <option name="lastUrl" value="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login" />
   </component>
@@ -77,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691095743952</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added UserDetails class">
+      <option name="closed" value="true" />
+      <created>1691096546404</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691096546404</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +110,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added FirstNameStrategy,LastNameStrategy class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added FirstNameStrategy,LastNameStrategy class" />
+    <MESSAGE value="Added UserDetails class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added UserDetails class" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
