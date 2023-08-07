@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 public class JobStrategy implements AttributeStrategy<String> {
     @Override
     public String getValue(Class<?> aClass, List<Annotation> list) {
-        return Stream.of("developper","devops","SRE")
+        return Stream.of("developer","devops","SRE")
                 .findAny()
                 .orElseThrow();
     }

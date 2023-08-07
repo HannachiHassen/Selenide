@@ -14,7 +14,11 @@ public class HomePage {
 	public LeftMenuComponent getLeftMenuComponent() {
 		return leftMenuComponent;
 	}
-	
+
+	public AddAminPage navigateToAddAdminPage(){
+		this.leftMenuComponent.selectAMenuFromLeftMenuBar(ADMIN);
+		return new AddAminPage();
+	}
 	public AddEmployeePage navigateToAddEmployeePage() {
 	    this.leftMenuComponent.selectAMenuFromLeftMenuBar(PIM);
 	    return new AddEmployeePage();

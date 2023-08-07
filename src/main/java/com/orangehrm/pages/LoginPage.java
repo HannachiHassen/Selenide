@@ -2,6 +2,7 @@ package com.orangehrm.pages;
 
 import com.codeborne.selenide.SelenideElement;
 import com.orangehrm.entity.LoginDetails;
+import com.orangehrm.entity.LoginDetails;
 
 import static com.codeborne.selenide.Selectors.*;
 import static com.codeborne.selenide.Selenide.*;

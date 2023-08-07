@@ -1,14 +1,13 @@
 package com.orangehrm.pages;
 
+import com.codeborne.selenide.ElementsCollection;
 import com.codeborne.selenide.SelenideElement;
 import com.orangehrm.entity.EmployeeDetails;
 
-import static com.codeborne.selenide.Selenide.*;
-
-import com.codeborne.selenide.ElementsCollection;
-
-import static com.codeborne.selenide.Selectors.*;
 import static com.codeborne.selenide.Condition.*;
+import static com.codeborne.selenide.Selectors.*;
+import static com.codeborne.selenide.Selenide.$;
+import static com.codeborne.selenide.Selenide.$$;
 
 public class AddEmployeePage {
 
