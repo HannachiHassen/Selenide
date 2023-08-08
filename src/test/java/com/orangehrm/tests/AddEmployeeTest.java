@@ -1,6 +1,7 @@
 package com.orangehrm.tests;
 
 import com.orangehrm.base.WebTestSetup;
+import com.orangehrm.tags.WebTest;
 import org.junit.jupiter.api.Test;
 
 import com.orangehrm.base.TestSetup;
@@ -15,6 +16,7 @@ class AddEmployeeTest extends WebTestSetup {
 	private final EmployeeDetails employeeDetails = EmployeeTestData.getRandomEmployeeDetails();
 	private final LoginDetails loginDetails = LoginTestData.getValidLoginDetails();
 
+	@WebTest
 	@Test
 	void testAddEmployee() {
 
