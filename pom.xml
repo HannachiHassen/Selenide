@@ -24,7 +24,7 @@
     <podam.version>8.0.0.RELEASE</podam.version>
     <owner.version>1.0.12</owner.version>
     <allure.version>2.23.0</allure.version>
-    <aspectj.version>1.9.9.1</aspectj.version>
+    <aspectj.version>1.9.20</aspectj.version>
     <faker.version>1.0.2</faker.version>
   </properties>
 
