@@ -20,7 +20,7 @@
     <junit.version>5.10.0</junit.version>
     <selenium.version>4.11.0</selenium.version>
     <selenide.version>6.17.0</selenide.version>
-    <lombok.version>1.18.28</lombok.version>
+    <lombok.version>1.18.30</lombok.version>
     <podam.version>8.0.0.RELEASE</podam.version>
     <owner.version>1.0.12</owner.version>
     <allure.version>2.23.0</allure.version>
