@@ -19,7 +19,7 @@
     <webdrivermanager.version>5.5.3</webdrivermanager.version>
     <junit.version>5.10.0</junit.version>
     <selenium.version>4.12.1</selenium.version>
-    <selenide.version>6.18.0</selenide.version>
+    <selenide.version>6.19.0</selenide.version>
     <lombok.version>1.18.30</lombok.version>
     <podam.version>8.0.0.RELEASE</podam.version>
     <owner.version>1.0.12</owner.version>
